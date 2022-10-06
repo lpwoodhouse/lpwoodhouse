@@ -1,4 +1,3 @@
-## Connect with me
 [![Website](https://img.shields.io/badge/Web-www.leewoodhouse.com-darkgreen?style=flat&link=https://www.leewoodhouse.com/)](https://www.leewoodhouse.com/)
 [![Email](https://img.shields.io/badge/Email-admin@leewoodhouse.com-yellow?style=flat&link=mailto:admin@leewoodhouse.com)](mailto:admin@leewoodhouse.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-LeeWoodhouse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lee-woodhouse-58056118b/)](https://www.linkedin.com/in/lee-woodhouse-58056118b/)
