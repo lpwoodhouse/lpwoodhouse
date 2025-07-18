@@ -63,6 +63,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lpwoodhouse)
 [![Reddit Badge](https://img.shields.io/badge/-lpwoodhouse-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/lpwoodhouse)](https://www.reddit.com/user/lpwoodhouse)
 [![Twitter](https://img.shields.io/twitter/babswoodhouse?style=social)](https://twitter.com/babswoodhouse/)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:babswoodhouse)
 
 ---
 
