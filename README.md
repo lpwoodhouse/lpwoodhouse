@@ -61,7 +61,7 @@
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lpwoodhouse)
-[![GitHub](https://img.shields.io/badge/GitHub_Profile-black?style=flat&logo=github)](https://github.com/lpwoodhouse)
+[![Reddit Badge](https://img.shields.io/badge/-lpwoodhouse-FF4500?style=flat&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/lpwoodhouse)](https://www.reddit.com/user/lpwoodhouse)
 
 ---
 
