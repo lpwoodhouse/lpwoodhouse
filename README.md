@@ -35,19 +35,21 @@
 
 ### 💾 Recent Interests
 
+<!--
 - Rebuilding things that already work, just because I can 🔁
 - Turning YAML into an art form 📜
 - Ranting about smart quotes in logs 😤
 - Running scripts with `-WhatIf`, then doing it anyway 😏
-
----
+-->
 
 ### 🧰 Featured Projects
 
+<!--
 - 📡 `cloudflare_ddns_updater` — DIY dynamic DNS
 - 🛡️ `mdatp_onboard` — Microsoft Defender onboarding for Linux
 - 📦 `proxmox_vm_state` — Snapshot or shut it down!
 - 🧪 `ansible_plugin_proxmox_dynamic_inventory` — Proxmox, but dynamically
+-->
 
 ---
 
