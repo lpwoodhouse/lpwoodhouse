@@ -8,7 +8,7 @@
   Homelab | Automation | Self-hosting</em>
 </p>
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.leewoodhouse.com)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.leewoodhouse.com&link=https%3A%2F%2Fwww.leewoodhouse.com)
 
 ---
 
