@@ -5,7 +5,7 @@ Use GitHub’s own views to explore my public repositories and contributions:
 - [Contribution calendar and recent activity](https://github.com/lpwoodhouse?tab=overview)
 - [Public repositories and their languages](https://github.com/lpwoodhouse?tab=repositories)
 - [Public pull requests](https://github.com/pulls?q=is%3Apr+author%3Alpwoodhouse)
-- [Public issues](https://github.com/issues?q=is%3Aissue+author%3Alpwoodhouse)
+- [Public issues](https://github.com/search?q=author%3Alpwoodhouse+is%3Aissue&type=issues)
 
 These views reflect the information GitHub makes visible to you. They do not describe my full professional work or measure proficiency in a language or platform.
 
